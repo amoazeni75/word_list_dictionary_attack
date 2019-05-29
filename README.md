@@ -1,1 +1,1 @@
-<h1>Word List Dictionary Attack</h1>
+<h1>Word List For Brute Force Attack</h1>
